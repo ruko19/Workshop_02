@@ -1,0 +1,144 @@
+{
+    "pelisc2": [
+        {
+            "id": 1,
+            "nombre": "Arrival",
+            "puntaje": "7,9/10",
+            "genero": "ciencia ficcion",
+            "imagen": "https://i.pinimg.com/originals/05/c2/23/05c2239cb6a9c10834561cf34c98b3fc.jpg"
+        },
+        {
+            "id": 2,
+            "nombre": "Animales fantásticos y dónde encontrarlos",
+            "puntaje": "7,2/10",
+            "genero": "fantasia",
+            "imagen": "https://i.pinimg.com/originals/54/01/d2/5401d212875192d04a7fb537e847a0c1.jpg"
+        },
+        {
+            "id": 3,
+            "nombre": "Wonder Woman",
+            "puntaje": "7,4/10",
+            "genero": "super heroes",
+            "imagen": "https://m.media-amazon.com/images/M/MV5BMTYzODQzYjQtNTczNC00MzZhLTg1ZWYtZDUxYmQ3ZTY4NzA1XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_.jpg"
+        },
+        {
+            "id": 4,
+            "nombre": "Rey Arturo: La leyenda de Excalibur",
+            "puntaje": "7,0/10",
+            "genero": "aventura",
+            "imagen": "https://m.media-amazon.com/images/M/MV5BMjM3ODY3Njc5Ml5BMl5BanBnXkFtZTgwMjQ5NjM5MTI@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "id": 5,
+            "nombre": "Un don excepcional ",
+            "puntaje": "7,6/10",
+            "genero": "drama",
+            "imagen": "https://image.tmdb.org/t/p/w500/9uiUpCGD4LZoDk8iiSToUVjKNyN.jpg"
+        },
+        {
+            "id": 6,
+            "nombre": "Passengers",
+            "puntaje": "7,0/10",
+            "genero": "ciencia ficcion",
+            "imagen": "https://ia.media-imdb.com/images/M/MV5BZjk4ZTMwMTYtOTk1NC00OTA0LWFhMGYtZTBjMzViMDY2YWZjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+        },
+        {
+            "id": 7,
+            "nombre": "La Liga de la Justicia de Zack Snyder",
+            "puntaje": "8,0/10",
+            "genero": "super heroes",
+            "imagen": "https://s3.cine3.com/2021/03/zack-snyder-justice-league-2021-poster-oficial-1037x1536.jpg"
+        },
+        {
+            "id": 8,
+            "nombre": "Life",
+            "puntaje": "6,6/10",
+            "genero": "suspenso",
+            "imagen": "https://m.media-amazon.com/images/M/MV5BMzAwMmQxNTctYjVmYi00MDdlLWEzMWUtOTE5NTRiNDhhNjI2L2ltYWdlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY1200_CR90,0,630,1200_AL_.jpg"
+        },
+        {
+            "id": 9,
+            "nombre": "Doctor Strange. Doctor Extraño",
+            "puntaje": "7,5/10",
+            "genero": "super heroes",
+            "imagen": "https://m.media-amazon.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_FMjpg_UX1000_.jpg"
+        },
+        {
+            "id": 10,
+            "nombre": "Rogue One. Una historia de Star Wars",
+            "puntaje": "7,8/10",
+            "genero": "ciencia ficcion",
+            "imagen": "https://m.media-amazon.com/images/M/MV5BMjEwMzMxODIzOV5BMl5BanBnXkFtZTgwNzg3OTAzMDI@._V1_.jpg"
+        },
+        {
+            "id": 11,
+            "nombre": "La La Land",
+            "puntaje": "8,0/10",
+            "genero": "musical",
+            "imagen": "https://filmovionline.to/wp-content/uploads/2018/09/la-la-land-poster.jpg"
+        },
+        {
+            "id": 12,
+            "nombre": "Deadpool",
+            "puntaje": "8,0/10",
+            "genero": "super heroes",
+            "imagen": "https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+        },
+        {
+            "id": 13,
+            "nombre": "El hombre de acero",
+            "puntaje": "7,1/10",
+            "genero": "super heroes",
+            "imagen": "https://www.newdvdreleasedates.com/images/posters/large/man-of-steel-2013-16.jpg"
+        },
+        {
+            "id": 14,
+            "nombre": "Spider-Man",
+            "puntaje": "7,4/10",
+            "genero": "super heroes",
+            "imagen": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_UY1200_CR91,0,630,1200_AL_.jpg"
+        },
+        {
+            "id": 15,
+            "nombre": "Spider-Man 2",
+            "puntaje": "7,4/10",
+            "genero": "super heroes",
+            "imagen": "https://images-na.ssl-images-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UY1200_CR122,0,630,1200_AL_.jpg"
+        },
+        {
+            "id": 16,
+            "nombre": "Spider-Man 3",
+            "puntaje": "6,3/10",
+            "genero": "super heroes",
+            "imagen": "https://i.pinimg.com/originals/ef/41/f0/ef41f049a09905125003cd95ff449b09.jpg"
+        },
+        {
+            "id": 17,
+            "nombre": "Star Wars: Una nueva esperanza",
+            "puntaje": "8,6/10",
+            "genero": "ciencia ficcion",
+            "imagen": "https://i.pinimg.com/736x/2f/29/96/2f2996c1c1480c3c7a15dcc41450e113.jpg"
+        },
+        {
+            "id": 18,
+            "nombre": "Star Wars: El imperio contraataca",
+            "puntaje": "8,7/10",
+            "genero": "ciencia ficcion",
+            "imagen": "https://i.pinimg.com/originals/68/5c/9e/685c9ef12c871004c0f5b70506c2495b.jpg"
+        },
+        {
+            "id": 19,
+            "nombre": "Star Wars: El Regreso del Jedi",
+            "puntaje": "8,6/10",
+            "genero": "ciencia ficcion",
+            "imagen": "https://i.pinimg.com/736x/c0/4c/5a/c04c5a26ac08afa788912c1416fa42ca--star-wars-episode--movies-to-watch.jpg"
+        },
+        {
+            "id": 20,
+            "nombre": "El curioso caso de Benjamin Button",
+            "puntaje": "7,8/10",
+            "genero": "drama",
+            "imagen": "https://i.pinimg.com/736x/da/3c/58/da3c58bc92c27f5d573aa04fb03769bd.jpg"
+        }
+    ]
+}
